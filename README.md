@@ -49,11 +49,21 @@ Projeto fundamentado em um case real de auditoria do **JPMorgan / StrataScratch*
 
 #### 1. Modelo Conceitual
 Representação de alto nível utilizando o Diagrama Entidade-Relacionamento (DER), definindo as entidades `clientes`, `conta` e `transacoes` e seus relacionamentos.
+
+
 ![Modelo Conceitual](diagramas/Modelo-Conceitual.png)
+
+
+
 
 #### 2. Modelo Lógico
 Tradução do conceito para tabelas e colunas, definindo tipos de dados e Chaves Estrangeiras (FK) para garantir a integridade referencial.
+
+
 ![Modelo Conceitual](diagramas/Modelo-Lógico.png)
+
+
+
 
 ```
 clientes (1) ──possui──> (N) conta (1) ──realiza──> (N) transacoes
