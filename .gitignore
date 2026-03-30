@@ -1,0 +1,4 @@
+.env
+.venv/
+__pycache__/
+bank_transactions_data_2.csv
