@@ -106,7 +106,7 @@ sql/03_views.sql    → criação das views de auditoria
 ## 🚀 Parte 2 — Pipeline ELT: Detecção de Fraudes Bancárias
 
 ### 📊 Dashboard de Entrega
-![Dashboard de Fraudes Bancárias](Dashboard_Fraudes_Bancarias.png)
+![Dashboard de Fraudes Bancárias](Dashboard_Fraudes_Bancárias.png)
 *Visualização analítica dos dados processados pelo pipeline, focada na identificação de padrões suspeitos e volumetria transacional.*
 
 Evolução natural do projeto anterior, aplicando os conceitos de modelagem em um pipeline ELT moderno com dados reais do Kaggle.
